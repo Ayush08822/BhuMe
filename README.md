@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # BhuMe Boundary Take-Home: Starter Kit
 
 The official plot outlines in Maharashtra's land records sit metres off the real fields (an
@@ -94,3 +95,6 @@ plots than this to mean much (and restraint shows nothing here: the public sampl
 already-correct control plots), so reason about what your confidence *should* represent rather than
 maximizing the number on this sample. Your real grade uses a larger hidden set, so don't overfit to
 these few. The contract spec is in `CONTRACT.md`.
+=======
+# BhuMe
+>>>>>>> 40173de35eca28c1d6a8f9ad01e6733adda17b35
